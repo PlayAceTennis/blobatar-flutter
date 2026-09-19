@@ -1,7 +1,7 @@
 name: flutter_blobatar
 description: "Unofficial Flutter port of blobatar.dev — deterministic geometric SVG avatars from any string via flutter_svg."
 version: 0.1.0
-homepage: https://github.com/PlayAceTennis/blobatar-flutter
+homepage: https://playace.de
 repository: https://github.com/PlayAceTennis/blobatar-flutter
 issue_tracker: https://github.com/PlayAceTennis/blobatar-flutter/issues
 topics:
