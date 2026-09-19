@@ -1,3 +1,8 @@
+## 0.1.1
+
+- Fix pub.dev license score: keep `LICENSE` as canonical MIT, move port
+  attribution to `NOTICE`.
+
 ## 0.1.0
 
 - Initial release as `flutter_blobatar` (unofficial community port).
