@@ -1,0 +1,7 @@
+flutter_blobatar — Attribution Notice
+
+This package is an unofficial community port. The avatar algorithm is based on
+blobatar (https://github.com/Alain00/blobatar) by Alain, also MIT licensed.
+This package is not affiliated with, sponsored, or endorsed by Alain or
+blobatar.dev. The `blobatar` name on pub.dev belongs to the official SDK;
+this package is published as `flutter_blobatar` to avoid confusion.

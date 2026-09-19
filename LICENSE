@@ -19,11 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
----
-
-This package is an unofficial community port. The avatar algorithm is based on
-[blobatar](https://github.com/Alain00/blobatar) by Alain, also MIT licensed.
-This package is not affiliated with, sponsored, or endorsed by Alain or
-blobatar.dev. The `blobatar` name on pub.dev belongs to the official SDK;
-this package is published as `flutter_blobatar` to avoid confusion.
